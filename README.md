@@ -1,4 +1,4 @@
-# <h1> 🎯 AWS Threat Detection </h1>
+# <h1> 🎯 Linux Threat Detection </h1>
 
  ### [Medium Walkthrough](https://youtu.be/7eJexJVCqJo)
 
